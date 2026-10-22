@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+openai
+python-dotenv
+requests
+pyyaml
+flask-sse # For real-time streaming if needed, though FastAPI has built-in streaming
+aiohttp
+docker
